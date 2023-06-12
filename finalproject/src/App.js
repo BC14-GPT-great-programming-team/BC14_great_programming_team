@@ -1,9 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 
-
-//      ❗DO NOT EDIT THIS BRANCH❗
-
+//      ❗DO NOT EDIT THIS BRANCH❗ PLEASE
 
 function App() {
   return (
